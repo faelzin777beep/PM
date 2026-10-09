@@ -1,8 +1,8 @@
 # Sistema Acadêmico Mobile
 
-## Sobre o projeto
+## Sobre o Projeto
 
-O Sistema Acadêmico Mobile é uma aplicação desenvolvida para dispositivos móveis com o objetivo de organizar e facilitar o gerenciamento de informações acadêmicas. O projeto reúne telas para cadastro e consulta de diferentes informações relacionadas ao ambiente escolar.
+Aplicação para dispositivos móveis destinada ao gerenciamento de informações acadêmicas, incluindo cadastro e consulta de alunos, professores, cursos, responsáveis, matrículas, turmas, avaliações e coordenadores.
 
 ## Funcionalidades
 
@@ -22,38 +22,28 @@ O Sistema Acadêmico Mobile é uma aplicação desenvolvida para dispositivos m�
 - Consulta de avaliações
 - Cadastro de coordenadores
 - Consulta de coordenadores
-- Cadastro de boletins
-- Consulta de boletins
-- Cadastro de disciplinas
-- Consulta de disciplinas
-- Navegação entre as principais telas da aplicação
 
-## Tecnologias utilizadas
+## Tecnologias Utilizadas
 
+- HTML
+- CSS
 - JavaScript
-- React Native
-- Expo
-- Expo Go
-- React Native Paper
-- React Navigation
-- Git
-- GitHub
+- (Outras tecnologias que você utilizou, se houver)
 
-## Estrutura do projeto
+## Estrutura do Projeto
 
-```text
-sistema-academico-mobile/
-├── telasmobile/
-│   ├── App.js
-│   └── outras telas e componentes
-├── calculadora/
-├── index.html
-├── README.md
-└── outros arquivos do projeto
-```
+- `PM-main/PM-main/`: Diretório principal contendo o código-fonte e arquivos do sistema acadêmico mobile.
+- `calculadora/`: Pasta com arquivos relacionados a uma calculadora, possivelmente uma funcionalidade auxiliar ou projeto separado.
+- `index.html`: Arquivo HTML principal, possivelmente a página inicial ou ponto de entrada da aplicação web.
+- `meu.site2/`: Diretório contendo arquivos e recursos para um site ou interface web complementar.
+- `telasmobile/`: Pasta com telas ou componentes específicos para a versão mobile da aplicação.
 
-A pasta principal da aplicação mobile contém o código das telas e os arquivos necessários para o funcionamento do sistema.
+## Como Executar
 
-## Como executar 
-
-Rafael Peres de Farias
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/faelzin777beep/PM.git
+Acesse a pasta do projeto:
+cd PM-main/PM-main
+Abra o arquivo index.html em seu navegador para acessar a aplicação web, ou siga as instruções específicas para executar a versão mobile (caso haja).
+Caso o projeto utilize alguma tecnologia que precise de instalação (Node.js, etc.), instale as dependências conforme necessário.
