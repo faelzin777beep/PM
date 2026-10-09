@@ -37,7 +37,7 @@ Aplicação para dispositivos móveis destinada ao gerenciamento de informaçõe
 - `index.html`: Arquivo HTML principal, possivelmente a página inicial ou ponto de entrada da aplicação web.
 - `meu.site2/`: Diretório contendo arquivos e recursos para um site ou interface web complementar.
 - `telasmobile/`: Pasta com telas ou componentes específicos para a versão mobile da aplicação.
-
+- 'api_escola/': parte da conexão do api
 ## Como Executar
 
 1. Clone o repositório:
